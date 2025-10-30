@@ -1,0 +1,267 @@
+Public Class frm_Employee_Salary
+
+#Region "variables"
+    Private dtbempsalarydetail, dtbLocation, dtbDepartment As DataTable
+    Dim dtrowempsalary As DataRow
+    Dim ObjclsGen As New cls_General
+    Dim objclsemppayroll As New cls_payroll
+    Dim dtbempCode As New DataTable
+    Dim cmbempcode As ComboBox
+    Dim txtchequesal, txtrealsal As TextBox
+#End Region
+
+#Region " Constructors "
+
+    Public Sub New()
+
+        ' This call is required by the Windows Form Designer.
+        InitializeComponent()
+        ' Add any initialization after the InitializeComponent() call.
+        dtbempsalarydetail = New DataTable
+
+    End Sub
+
+#End Region
+
+#Region " Events "
+
+    Private Sub frm_Employee_Salary_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
+        Try
+            Dim strQrylocname As String
+            dtbLocation = New DataTable
+            strQrylocname = "SELECT location_id,location_name FROM tbl_location"
+            If ObjclsGen.Getdata(masterform.con, strQrylocname, dtbLocation) Then
+                With cmblocname
+                    .DataSource = dtbLocation
+                    .DisplayMember = "location_name"
+                    .ValueMember = "location_id"
+                End With
+            End If
+            strQrylocname = "select * from tbl_Employee"
+            If ObjclsGen.Getdata(masterform.con, strQrylocname, dtbempCode) Then
+                With grid_emp_salary
+                    CType(.Columns("clmemp_Code"), DataGridViewComboBoxColumn).DataSource = Nothing
+                    CType(.Columns("clmemp_Code"), DataGridViewComboBoxColumn).DataSource = dtbempCode
+                    CType(.Columns("clmemp_Code"), DataGridViewComboBoxColumn).ValueMember = "employee_code"
+                    CType(.Columns("clmemp_Code"), DataGridViewComboBoxColumn).DisplayMember = "employee_code"
+                End With
+            End If
+            grid_emp_salary.ReadOnly = True
+        Catch ex As Exception
+            MsgBox(ex.Message)
+        End Try
+    End Sub
+
+    Private Sub btnsave_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnsave.Click
+        cmblocname.Enabled = True
+        If validateEmpSalarydata() Then
+            If objclsemppayroll.Saveempsalarydetail(masterform.con, dtbempsalarydetail) Then
+                MsgBox("Record saved successfully....", MsgBoxStyle.Information, "Save Data")
+                grid_emp_salary.ReadOnly = True
+            End If
+        End If
+    End Sub
+
+    Private Sub cmblocname_SelectedIndexChanged(ByVal sender As Object, ByVal e As System.EventArgs) Handles cmblocname.SelectedIndexChanged
+        Try
+
+            Dim strQrydeptname As String
+            dtbDepartment = New DataTable
+            'cmbdeptname.SelectedIndex = -1
+            strQrydeptname = "SELECT department_id,department_name FROM tbl_department WHERE location_id in(SELECT location_id FROM tbl_location WHERE location_name='" & cmblocname.Text.ToString & "')"
+            If ObjclsGen.Getdata(masterform.con, strQrydeptname, dtbDepartment) Then
+                With cmbdeptname
+                    .DataSource = dtbDepartment
+                    .DisplayMember = "department_name"
+                    .ValueMember = "department_id"
+                End With
+            End If
+            cmbdeptname.Text = ""
+            cmbdeptname.SelectedIndex = -1
+        Catch ex As Exception
+            MsgBox(ex.Message)
+        End Try
+    End Sub
+
+    Private Sub btnfind_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnfind.Click
+        cmblocname.Enabled = False
+        grid_emp_salary.ReadOnly = False
+        If Not searchEmployeeData() Then
+            MsgBox("Record not found")
+            AddnewRow()
+        End If
+    End Sub
+
+    Private Sub grid_emp_salary_CellValidating(ByVal sender As Object, ByVal e As System.Windows.Forms.DataGridViewCellValidatingEventArgs) Handles grid_emp_salary.CellValidating
+        'If Not IsNumeric(dtrowempsalary("cheque_salary")) Then 'or Val(dtrowempsalary("cheque_salary")).Equals(String.Empty)) Then
+        '    dtrowempsalary("cheque_salary") = 0
+        'End If
+        With grid_emp_salary
+            .CommitEdit(DataGridViewDataErrorContexts.CurrentCellChange)
+            .BindingContext(grid_emp_salary.DataSource).EndCurrentEdit()
+            If Not IsNumeric(grid_emp_salary.Item("chequesal", e.RowIndex).Value) Then
+                grid_emp_salary.Item("chequesal", e.RowIndex).Value = 0
+            End If
+        End With
+    End Sub
+
+
+
+    Private Sub grid_emp_salary_DataError(ByVal sender As Object, ByVal e As System.Windows.Forms.DataGridViewDataErrorEventArgs) Handles grid_emp_salary.DataError
+        e.Cancel = True
+    End Sub
+
+    Private Sub grid_emp_salary_EditingControlShowing(ByVal sender As Object, ByVal e As System.Windows.Forms.DataGridViewEditingControlShowingEventArgs) Handles grid_emp_salary.EditingControlShowing
+        grid_emp_salary.Item("empname", grid_emp_salary.CurrentRow.Index).ReadOnly = True
+        grid_emp_salary.Item("payablesal", grid_emp_salary.CurrentRow.Index).ReadOnly = True
+
+        If grid_emp_salary.Columns(grid_emp_salary.CurrentCell.ColumnIndex).DataPropertyName.ToUpper = "EMPLOYEE_CODE" Then
+            cmbempcode = e.Control
+            AddHandler cmbempcode.SelectedIndexChanged, AddressOf cmbempcode_SelectedIndexChanged
+        End If
+        If grid_emp_salary.Columns(grid_emp_salary.CurrentCell.ColumnIndex).DataPropertyName.ToUpper = "CHEQUE_SALARY" Then
+            txtchequesal = e.Control
+            AddHandler txtchequesal.Leave, AddressOf txtchequesal_Leave
+        End If
+        If grid_emp_salary.Columns(grid_emp_salary.CurrentCell.ColumnIndex).DataPropertyName.ToUpper = "REAL_SALARY" Then
+            txtrealsal = e.Control
+            AddHandler txtrealsal.Leave, AddressOf txtrealsal_Leave
+        End If
+    End Sub
+    Private Sub txtchequesal_Leave(ByVal sender As Object, ByVal e As System.EventArgs)
+        Try
+            If grid_emp_salary.CurrentRow IsNot Nothing Then
+                If Not txtchequesal.Text = "" Then
+                    grid_emp_salary.Item("payablesal", grid_emp_salary.CurrentRow.Index).Value = CInt(grid_emp_salary.Item("realsal", grid_emp_salary.CurrentRow.Index).Value) - CInt(grid_emp_salary.Item("chequesal", grid_emp_salary.CurrentRow.Index).Value)
+                    grid_emp_salary.Item("payablesal", grid_emp_salary.CurrentRow.Index).ReadOnly = True
+                Else
+                    grid_emp_salary.Item("payablesal", grid_emp_salary.CurrentRow.Index).Value = String.Empty
+                    grid_emp_salary.Item("payablesal", grid_emp_salary.CurrentRow.Index).ReadOnly = False
+                End If
+            End If
+        Catch ex As Exception
+            MsgBox(ex.Message, MsgBoxStyle.Critical)
+        End Try
+    End Sub
+    Private Sub txtrealsal_Leave(ByVal sender As Object, ByVal e As System.EventArgs)
+        Try
+            If grid_emp_salary.CurrentRow IsNot Nothing Then
+                If Not txtrealsal.Text = "" Then
+                    grid_emp_salary.Item("payablesal", grid_emp_salary.CurrentRow.Index).Value = CInt(grid_emp_salary.Item("realsal", grid_emp_salary.CurrentRow.Index).Value) - CInt(grid_emp_salary.Item("chequesal", grid_emp_salary.CurrentRow.Index).Value)
+                    grid_emp_salary.Item("payablesal", grid_emp_salary.CurrentRow.Index).ReadOnly = True
+                Else
+                    grid_emp_salary.Item("payablesal", grid_emp_salary.CurrentRow.Index).Value = String.Empty
+                    grid_emp_salary.Item("payablesal", grid_emp_salary.CurrentRow.Index).ReadOnly = False
+                End If
+            End If
+        Catch ex As Exception
+            MsgBox(ex.Message, MsgBoxStyle.Critical)
+        End Try
+    End Sub
+
+    Private Sub cmbempcode_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs)
+        Try
+            If grid_emp_salary.CurrentRow IsNot Nothing Then
+                If cmbempcode.SelectedIndex >= 0 Then
+                    grid_emp_salary.Item("empname", grid_emp_salary.CurrentRow.Index).Value = cmbempcode.DataSource.DefaultView(cmbempcode.SelectedIndex)("SHORT_NAME")
+                    grid_emp_salary.Item("empname", grid_emp_salary.CurrentRow.Index).ReadOnly = True
+                    grid_emp_salary.Item("realsal", grid_emp_salary.CurrentRow.Index).Value = cmbempcode.DataSource.DefaultView(cmbempcode.SelectedIndex)("salary")
+                    grid_emp_salary.Item("realsal", grid_emp_salary.CurrentRow.Index).ReadOnly = True
+                Else
+                    grid_emp_salary.Item("empname", grid_emp_salary.CurrentRow.Index).Value = String.Empty
+                    grid_emp_salary.Item("empname", grid_emp_salary.CurrentRow.Index).ReadOnly = False
+                    grid_emp_salary.Item("realsal", grid_emp_salary.CurrentRow.Index).Value = String.Empty
+                    grid_emp_salary.Item("realsal", grid_emp_salary.CurrentRow.Index).ReadOnly = False
+                End If
+            End If
+        Catch ex As Exception
+            MsgBox(ex.Message, MsgBoxStyle.Critical)
+            Exit Try
+        End Try
+    End Sub
+
+    Private Sub grid_emp_salary_KeyDown(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyEventArgs) Handles grid_emp_salary.KeyDown
+        grid_emp_salary.EndEdit()
+        If e.KeyCode = Keys.Down Then
+            Dim rowindex As Integer = grid_emp_salary.CurrentCell.RowIndex
+            If rowindex = grid_emp_salary.Rows.Count - 1 Then
+                AddnewRow()
+            End If
+        End If
+    End Sub
+
+    Private Sub btncancel_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btncancel.Click
+        Me.Close()
+    End Sub
+#End Region
+
+#Region " Functions/Procedures "
+
+    Private Function searchEmployeeData() As Boolean
+        Dim dbReturn As Boolean = False
+        Try
+
+            Dim strqry As String
+            dtbempsalarydetail = New DataTable
+            masterform.con.Close()
+            strqry = "SELECT employee_code, employee_name,real_salary,cheque_salary, payable_salary  FROM tbl_empsalary WHERE department_id IN(SELECT department_id FROM tbl_department WHERE department_name='" & cmbdeptname.Text.ToString & "')"
+            If Not ObjclsGen.Getdata(masterform.con, strqry, dtbempsalarydetail) Then
+                MsgBox("data not found...")
+            Else
+                masterform.con.Open()
+                grid_emp_salary.DataSource = Nothing
+                grid_emp_salary.AutoGenerateColumns = False
+                grid_emp_salary.DataSource = dtbempsalarydetail
+                ' dbReturn = True
+            End If
+            If grid_emp_salary.RowCount > 0 Then
+                dbReturn = True
+            Else
+                dbReturn = False
+            End If
+            masterform.con.Close()
+            Return dbReturn
+        Catch ex As Exception
+            MsgBox(ex.Message)
+        End Try
+        Return dbReturn
+    End Function
+
+    Public Function validateEmpSalarydata() As Boolean
+        Dim dbReturn As Boolean = True
+        Try
+            grid_emp_salary.EndEdit()
+            For Each dtrowempsalary In dtbempsalarydetail.Rows
+                If dtrowempsalary.RowState <> DataRowState.Deleted Then
+                    If IsDBNull(dtrowempsalary("employee_code")) Or (dtrowempsalary("employee_code").Equals(String.Empty)) Then
+                        MsgBox("Must select employee code", MsgBoxStyle.Information, "Invalid Data")
+                        dbReturn = False
+                    End If
+                    If Not IsNumeric(dtrowempsalary("real_salary")) Then 'Or Val(dtrowempsalary("real_salary").Equals(String.Empty)) Then
+                        MsgBox("Must enter real salary", MsgBoxStyle.Information, "Invalid Data")
+                        dbReturn = False
+                    End If
+                    'If Not IsNumeric(dtrowempsalary("cheque_salary")) Then 'or Val(dtrowempsalary("cheque_salary")).Equals(String.Empty)) Then
+                    '    dtrowempsalary("cheque_salary") = 0
+                    'End If
+                  
+                End If
+            Next
+        Catch ex As Exception
+            MsgBox(ex.Message)
+        End Try
+        Return dbReturn
+    End Function
+
+    Private Sub AddnewRow()
+        Try
+            Dim rw As DataRow = dtbempsalarydetail.NewRow
+            dtbempsalarydetail.Rows.Add(rw)
+        Catch ex As Exception
+            MsgBox(ex.Message)
+        End Try
+    End Sub
+#End Region
+
+    
+End Class

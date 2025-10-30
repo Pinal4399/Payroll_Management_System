@@ -1,0 +1,412 @@
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\hr_mgmt_sys.exe.config
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.exe
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.xml
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.pdb
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\ResolveAssemblyReference.cache
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_complaint_approval.resources
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_complaint_register.resources
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_emp_transfer.resources
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_notes.resources
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_recruitment_approval.resources
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_recruitment_request.resources
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_suggestion_approval.resources
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_suggestion_register.resources
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_trainer.resources
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_training_venue.resources
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_bank.resources
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_leave_application.resources
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_company.resources
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.Form1.resources
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_employee.resources
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Process_Period.resources
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Employee_Salary.resources
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_emp_familydetail.resources
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_History.resources
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_Qualification.resources
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_location.resources
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_department.resources
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_Attendence.resources
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_SalaryProcess.resources
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_Overtime.resources
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.masterform.resources
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.Resources.resources
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.vbproj.GenerateResource.Cache
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\hr_mgmt_sys.exe
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\hr_mgmt_sys.pdb
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\hr_mgmt_sys.xml
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\DefaultControls.dll
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\DefaultControls.pdb
+H:\New Folder\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\DefaultControls.xml
+H:\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\hr_mgmt_sys.exe.config
+H:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.exe
+H:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.xml
+H:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.pdb
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\hr_mgmt_sys.exe.config
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\hr_mgmt_sys.exe
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\hr_mgmt_sys.pdb
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\hr_mgmt_sys.xml
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\DefaultControls.dll
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\DefaultControls.pdb
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\DefaultControls.xml
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.changepwd.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.createuser.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_training_enrollment.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_login.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_complaint_approval.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_complaint_register.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_emp_transfer.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_notes.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_recruitment_approval.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_recruitment_request.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_suggestion_approval.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_suggestion_register.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_trainer.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_training_venue.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_bank.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_leave_application.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_company.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_employee.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Process_Period.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Employee_Salary.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_emp_familydetail.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_History.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_Qualification.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_location.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_department.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_Attendence.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_SalaryProcess.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_Overtime.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.masterform.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.exe
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.xml
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.pdb
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\hr_mgmt_sys.exe.config
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.exe
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.xml
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.pdb
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\hr_mgmt_sys.exe
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\hr_mgmt_sys.pdb
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\hr_mgmt_sys.xml
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\DefaultControls.dll
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\DefaultControls.pdb
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\DefaultControls.xml
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.changepwd.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.createuser.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_accident_detail.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_training_enrollment.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_login.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_complaint_approval.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_complaint_register.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_emp_transfer.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_notes.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_recruitment_approval.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_recruitment_request.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_suggestion_approval.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_suggestion_register.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_trainer.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_training_venue.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_bank.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_leave_application.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_company.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_employee.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Process_Period.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Employee_Salary.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_emp_familydetail.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_History.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_Qualification.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_location.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_department.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_Attendence.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_SalaryProcess.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_Overtime.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.masterform.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_Earning.resources
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\hr_mgmt_sys.exe.config
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.exe
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.xml
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.pdb
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\hr_mgmt_sys.exe
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\hr_mgmt_sys.pdb
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\hr_mgmt_sys.xml
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\DefaultControls.dll
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\DefaultControls.pdb
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\DefaultControls.xml
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.changepwd.resources
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.createuser.resources
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_accident_detail.resources
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_training_enrollment.resources
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_Earning.resources
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_login.resources
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_complaint_approval.resources
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_complaint_register.resources
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_emp_transfer.resources
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_notes.resources
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_recruitment_approval.resources
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_recruitment_request.resources
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_suggestion_approval.resources
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_suggestion_register.resources
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_trainer.resources
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_training_venue.resources
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_bank.resources
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_leave_application.resources
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_company.resources
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_employee.resources
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Process_Period.resources
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Employee_Salary.resources
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_emp_familydetail.resources
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_History.resources
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_Qualification.resources
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_location.resources
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_department.resources
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_Attendence.resources
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_SalaryProcess.resources
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_Overtime.resources
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.masterform.resources
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_work_timings_schedule.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_work_timings_schedule.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_professiontax.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.rptCompany.rpt
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.Reportviewer.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_locwisedeptemp.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.rptlocwiseactive_emp.rpt
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.rptlocwisedept.rpt
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.rptlocwiseinactive_emp.rpt
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.rptperiod.rpt
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_backup_restore.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.rptleave.rpt
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_loc_leave.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\hr_mgmt_sys.exe.config
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.exe
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.xml
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.pdb
+G:\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\hr_mgmt_sys.exe
+G:\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\hr_mgmt_sys.pdb
+G:\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\hr_mgmt_sys.xml
+G:\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\DefaultControls.dll
+G:\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\DefaultControls.pdb
+G:\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\DefaultControls.xml
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\ResolveAssemblyReference.cache
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.rptleave.rpt
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.rptlocwiseactive_emp.rpt
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.rptlocwisedept.rpt
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.rptlocwiseinactive_emp.rpt
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.rptperiod.rpt
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.rptCompany.rpt
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.changepwd.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.createuser.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_accident_detail.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_professiontax.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_training_enrollment.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_Earning.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_work_timings_schedule.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_backup_restore.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_login.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_complaint_approval.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_complaint_register.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_emp_transfer.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_notes.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_recruitment_approval.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_recruitment_request.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_suggestion_approval.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_suggestion_register.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_trainer.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_training_venue.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_bank.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_leave_application.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_company.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_employee.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Process_Period.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Employee_Salary.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_emp_familydetail.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_History.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_Qualification.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_location.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_department.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_Attendence.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_SalaryProcess.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_Overtime.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.masterform.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.Resources.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_locwisedeptemp.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_loc_leave.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.Reportviewer.resources
+G:\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.rptfinalsalary.rpt
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_employeelist.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_appointment.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.rptAppointmentLetterFactory1.rpt
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.rptannexure.rpt
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.rpttraining.rpt
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_annexure.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_training.resources
+G:\HRMS\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\hr_mgmt_sys.exe.config
+G:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.exe
+G:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.xml
+G:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.pdb
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.rptcomplaint.rpt
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.rptconfirmationletter.rpt
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.rptemptransfer.rpt
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.rptsalary.rpt
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.rptsuggestion.rpt
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_complaint.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_confirmation.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_salary.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_suggestion.resources
+C:\Documents and Settings\Administrator\Desktop\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_workschedule.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\hr_mgmt_sys.exe.config
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.exe
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.xml
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.pdb
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\hr_mgmt_sys.exe
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\hr_mgmt_sys.pdb
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\hr_mgmt_sys.xml
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\DefaultControls.dll
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\DefaultControls.pdb
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\bin\Debug\DefaultControls.xml
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\ResolveAssemblyReference.cache
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.rptannexure.rpt
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.rptAppointmentLetterFactory1.rpt
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.rptcomplaint.rpt
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.rptconfirmationletter.rpt
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.rptemptransfer.rpt
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.rptsalary.rpt
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.rptsuggestion.rpt
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.rpttraining.rpt
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.rptfinalsalary.rpt
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.rptleave.rpt
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.rptlocwiseactive_emp.rpt
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.rptlocwisedept.rpt
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.rptlocwiseinactive_emp.rpt
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.rptperiod.rpt
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.rptCompany.rpt
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_complaint.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_annexure.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_confirmation.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_salary.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_suggestion.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_training.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_workschedule.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.changepwd.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.createuser.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_professiontax.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_training_enrollment.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_Earning.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_work_timings_schedule.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_backup_restore.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_login.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_complaint_approval.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_complaint_register.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_emp_transfer.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_notes.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_recruitment_approval.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_recruitment_request.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_suggestion_approval.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_suggestion_register.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_trainer.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_training_venue.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_bank.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_leave_application.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_company.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_employee.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Process_Period.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Employee_Salary.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_emp_familydetail.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_History.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_Qualification.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_location.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_department.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_Attendence.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_SalaryProcess.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_Overtime.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.masterform.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.Resources.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_appointment.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_employeelist.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_locwisedeptemp.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_loc_leave.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.Reportviewer.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Debug\hr_mgmt_sys.vbproj.GenerateResource.Cache
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\bin\Release\hr_mgmt_sys.exe.config
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\bin\Release\hr_mgmt_sys.exe
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\bin\Release\hr_mgmt_sys.pdb
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\bin\Release\hr_mgmt_sys.xml
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\bin\Release\DefaultControls.dll
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\bin\Release\DefaultControls.pdb
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\bin\Release\DefaultControls.xml
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\ResolveAssemblyReference.cache
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.rptannexure.rpt
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.rptAppointmentLetterFactory1.rpt
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.rptcomplaint.rpt
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.rptconfirmationletter.rpt
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.rptemptransfer.rpt
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.rptsalary.rpt
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.rptsuggestion.rpt
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.rpttraining.rpt
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.rptfinalsalary.rpt
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.rptleave.rpt
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.rptlocwiseactive_emp.rpt
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.rptlocwisedept.rpt
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.rptlocwiseinactive_emp.rpt
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.rptperiod.rpt
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.rptCompany.rpt
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_complaint.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_annexure.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_confirmation.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_salary.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_suggestion.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_training.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_workschedule.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.changepwd.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.createuser.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_professiontax.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_training_enrollment.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_Emp_Earning.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_work_timings_schedule.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_backup_restore.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_login.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_complaint_approval.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_complaint_register.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_emp_transfer.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_notes.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_recruitment_approval.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_recruitment_request.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_suggestion_approval.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_suggestion_register.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_trainer.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_training_venue.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_bank.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_leave_application.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_company.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_employee.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_Process_Period.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_Employee_Salary.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_emp_familydetail.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_Emp_History.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_Emp_Qualification.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_location.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_department.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_Emp_Attendence.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_Emp_SalaryProcess.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_Emp_Overtime.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.masterform.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.Resources.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_appointment.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_employeelist.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_locwisedeptemp.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.frm_loc_leave.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.Reportviewer.resources
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.vbproj.GenerateResource.Cache
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.exe
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.xml
+H:\HRMS\hr_mgmt_sys\hr_mgmt_sys\obj\Release\hr_mgmt_sys.pdb

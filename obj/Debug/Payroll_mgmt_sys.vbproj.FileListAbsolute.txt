@@ -1,0 +1,76 @@
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\bin\Debug\hr_mgmt_sys.exe.config
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\obj\Debug\hr_mgmt_sys.exe
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\obj\Debug\hr_mgmt_sys.xml
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\obj\Debug\hr_mgmt_sys.pdb
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\bin\Debug\hr_mgmt_sys.exe
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\bin\Debug\hr_mgmt_sys.pdb
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\bin\Debug\hr_mgmt_sys.xml
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\bin\Debug\DefaultControls.pdb
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\bin\Debug\DefaultControls.xml
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_salary.resources
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_workschedule.resources
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\obj\Debug\hr_mgmt_sys.changepwd.resources
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\obj\Debug\hr_mgmt_sys.createuser.resources
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_professiontax.resources
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_Earning.resources
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_work_timings_schedule.resources
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_backup_restore.resources
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_login.resources
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_bank.resources
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_company.resources
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_employee.resources
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Process_Period.resources
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Employee_Salary.resources
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_emp_familydetail.resources
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_History.resources
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_Qualification.resources
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_location.resources
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_department.resources
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_Attendence.resources
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_SalaryProcess.resources
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_Emp_Overtime.resources
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\obj\Debug\hr_mgmt_sys.masterform.resources
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\obj\Debug\hr_mgmt_sys.Resources.resources
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_employeelist.resources
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\obj\Debug\hr_mgmt_sys.frm_locwisedeptemp.resources
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\obj\Debug\hr_mgmt_sys.Reportviewer.resources
+C:\Users\ami\Desktop\115045778\PayRoll_mgmt_sys\obj\Debug\Payroll_mgmt_sys.vbproj.GenerateResource.Cache
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\bin\Debug\Payroll_mgmt_sys.exe.config
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\bin\Debug\Payroll_mgmt_sys.exe
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\bin\Debug\Payroll_mgmt_sys.pdb
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\bin\Debug\Payroll_mgmt_sys.xml
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\bin\Debug\DefaultControls.pdb
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\bin\Debug\DefaultControls.xml
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\obj\Debug\Payroll_mgmt_sys.frm_salary.resources
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\obj\Debug\Payroll_mgmt_sys.frm_workschedule.resources
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\obj\Debug\Payroll_mgmt_sys.changepwd.resources
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\obj\Debug\Payroll_mgmt_sys.createuser.resources
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\obj\Debug\Payroll_mgmt_sys.frm_professiontax.resources
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\obj\Debug\Payroll_mgmt_sys.frm_Emp_Earning.resources
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\obj\Debug\Payroll_mgmt_sys.frm_work_timings_schedule.resources
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\obj\Debug\Payroll_mgmt_sys.frm_backup_restore.resources
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\obj\Debug\Payroll_mgmt_sys.frm_login.resources
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\obj\Debug\Payroll_mgmt_sys.frm_bank.resources
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\obj\Debug\Payroll_mgmt_sys.frm_company.resources
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\obj\Debug\Payroll_mgmt_sys.frm_employee.resources
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\obj\Debug\Payroll_mgmt_sys.frm_Process_Period.resources
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\obj\Debug\Payroll_mgmt_sys.frm_Employee_Salary.resources
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\obj\Debug\Payroll_mgmt_sys.frm_emp_familydetail.resources
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\obj\Debug\Payroll_mgmt_sys.frm_Emp_History.resources
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\obj\Debug\Payroll_mgmt_sys.frm_Emp_Qualification.resources
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\obj\Debug\Payroll_mgmt_sys.frm_location.resources
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\obj\Debug\Payroll_mgmt_sys.frm_department.resources
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\obj\Debug\Payroll_mgmt_sys.frm_Emp_Attendence.resources
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\obj\Debug\Payroll_mgmt_sys.frm_Emp_SalaryProcess.resources
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\obj\Debug\Payroll_mgmt_sys.frm_Emp_Overtime.resources
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\obj\Debug\Payroll_mgmt_sys.masterform.resources
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\obj\Debug\Payroll_mgmt_sys.Resources.resources
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\obj\Debug\Payroll_mgmt_sys.frm_employeelist.resources
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\obj\Debug\Payroll_mgmt_sys.frm_locwisedeptemp.resources
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\obj\Debug\Payroll_mgmt_sys.Reportviewer.resources
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\obj\Debug\Payroll_mgmt_sys.vbproj.GenerateResource.Cache
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\obj\Debug\Payroll_mgmt_sys.exe
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\obj\Debug\Payroll_mgmt_sys.xml
+C:\Users\ami\Desktop\Guna amisha j.115045778\PayRoll_mgmt_sys\obj\Debug\Payroll_mgmt_sys.pdb
