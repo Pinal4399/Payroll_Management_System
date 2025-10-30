@@ -1,5 +1,7 @@
 ﻿🧾 Payroll_Management_System (VB.NET)
 
+As part of my Master of Computer Application degree project, I developed Payroll Management System comprehensive desktop application in VB.NET.
+
 📖 Project Overview
 It automates and streamlines HR and payroll operations, providing modules for employee management, payroll processing, attendance tracking, recruitment, training, and reporting.
 The system ensures accuracy, transparency, and efficiency in managing employee data and salary processing.
@@ -89,4 +91,5 @@ Database: SQL Server
 Reporting Tool: Crystal Reports
 
 Platform: .NET Framework (Windows Forms Application)
+
 
