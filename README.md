@@ -1,4 +1,4 @@
-﻿🧾 Payroll_Management_System (VB.NET)
+﻿🧾 Payroll_Management_System (VB.NET & SQL Server)
 
 As part of my Master of Computer Application degree project, I developed Payroll Management System comprehensive desktop application in VB.NET.
 
@@ -82,6 +82,15 @@ Change Password / Forgot Password Functionality
 Database Backup and Restore
 
 
+🗄️ Database
+
+Microsoft SQL Server
+
+Handles relational data for employees, payroll, HR, and reporting modules
+
+Ensures data integrity through proper normalization and constraints
+
+
 🛠️ Technology Stack
 
 Language: Visual Basic .NET
@@ -91,5 +100,6 @@ Database: SQL Server
 Reporting Tool: Crystal Reports
 
 Platform: .NET Framework (Windows Forms Application)
+
 
 
